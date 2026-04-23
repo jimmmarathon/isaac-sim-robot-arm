@@ -102,7 +102,7 @@ class DualArmTaskExtension(omni.ext.IExt):
 
     async def _start_task_flow(self):
         """
-        Start 前先 reset 場景，再執行完整任務。
+        新增 Reset 功能，在 Start 前先做
         """
         try:
             self._reset_scene_state()
@@ -114,7 +114,7 @@ class DualArmTaskExtension(omni.ext.IExt):
 
     def _stop_and_reset(self):
         """
-        Stop 任務並重置場景。
+        Stop 後也要 Reset
         """
         try:
             # self._controller.stop()
@@ -125,8 +125,7 @@ class DualArmTaskExtension(omni.ext.IExt):
 
     def _reset_scene_state(self):
         """
-        場景重置邏輯放在 Extension / Controller 層，
-        不直接塞進 task flow 本身。
+        場景重置邏輯加在 Extension / Controller 層，不直接塞進 task flow 本身。
         """
         if self._controller is None:
             return

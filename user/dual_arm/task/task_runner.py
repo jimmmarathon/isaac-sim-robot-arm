@@ -160,7 +160,7 @@ class DualArmTaskController:
     def get_stage(self):
         stage = omni.usd.get_context().get_stage()
         if stage is None:
-            raise RuntimeError("拿不到 USD stage")
+            raise RuntimeError("沒拿到 USD stage")
         return stage
 
     def get_prim(self, path: str):
@@ -172,7 +172,7 @@ class DualArmTaskController:
     def load_points(self, path: str):
         if not os.path.isabs(path):
             base_dir = os.path.abspath(
-                os.path.join(os.path.dirname(__file__), "../../..")  # ⭐ 修正這裡
+                os.path.join(os.path.dirname(__file__), "../../..")  # 這邊先用相對路徑讀 JSON
             )
             path = os.path.join(base_dir, path)
 
@@ -199,7 +199,7 @@ class DualArmTaskController:
 
     def point6(self, points: dict, key: str):
         if key not in points:
-            raise KeyError(f"教點不存在: {key}")
+            raise KeyError(f"教導點位不存在: {key}")
         return np.array(points[key]["arm_joints_rad"], dtype=np.float32)
 
     def build_target_q(self, robot, points, key, grip_open_r, grip_open_l, grip_close_r, grip_close_l, gripper_open=None):
@@ -207,7 +207,7 @@ class DualArmTaskController:
         target = np.array(current, dtype=np.float32)
 
         if len(target) < 8:
-            raise RuntimeError(f"目前 DOF={len(target)}，但程式預期至少 8 軸")
+            raise RuntimeError(f"目前 DOF={len(target)}，程式預期至少 8 軸")
 
         target[:6] = self.point6(points, key)
 
