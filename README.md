@@ -7,19 +7,30 @@ This extension adds a simple UI window with:
 - Last error display
 - JSON path field
 
+## Features
+- Dual-arm coordination for lid opening, object placement, and lid closing
+- Custom Isaac Sim extension with task control UI
+- JSON-based taught points for motion execution
+- Asset-based scene setup for robot and environment simulation
+
 ## Folder structure
 
 ```text
-isaacsim_5_1_dual_arm_extension/
+isaac-sim-robot-arm/
+├─ assets/                        # USD scene, robot assets, and collected resources
 ├─ config/
-│  └─ extension.toml
-└─ user/
-   └─ dual_arm/
-      └─ task/
-         ├─ __init__.py
-         ├─ constants.py
-         ├─ extension.py
-         └─ task_runner.py
+│  └─ taught_points.json          # Taught points for robot task execution
+├─ user/
+│  └─ dual_arm/
+│     └─ task/
+│        ├─ __init__.py
+│        ├─ constants.py          # Task-related constants and path settings
+│        ├─ extension.py          # Isaac Sim extension entry point and UI logic
+│        └─ task_runner.py        # Dual-arm task execution pipeline
+├─ .gitignore
+├─ Demo.mp4                       # Demo video
+├─ extension.toml                 # Extension metadata
+└─ README.md
 ```
 
 ## How to install in Isaac Sim
@@ -29,6 +40,7 @@ isaacsim_5_1_dual_arm_extension/
 3. Open the Extensions settings panel and add the **parent folder** of this extension to the search path.
 4. Search for **Dual Arm Task** enable it.
 5. A window named **Dual Arm Task** should appear.
+6. Start the task from the extension UI.
 
 ## Before pressing Start Task
 
