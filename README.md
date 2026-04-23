@@ -59,9 +59,7 @@ Also make sure your JSON contains:
 
 ## 🎥 Demo Video
 
-<video controls width="600">
-  <source src="demo.mp4" type="video/mp4">
-</video>
+https://github.com/jimmmarathon/isaac-sim-robot-arm/blob/main/Demo.mp4
 
 ## Notes
 
