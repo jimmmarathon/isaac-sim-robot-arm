@@ -59,7 +59,9 @@ Also make sure your JSON contains:
 
 ## 🎥 Demo Video
 
-<video src="demo.mp4" controls width="600"></video>
+<video controls width="600">
+  <source src="demo.mp4" type="video/mp4">
+</video>
 
 ## Notes
 
