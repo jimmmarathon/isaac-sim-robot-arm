@@ -59,7 +59,7 @@ Also make sure your JSON contains:
 
 ## 🎥 Demo Video
 
-https://github.com/jimmmarathon/isaac-sim-robot-arm/raw/main/Demo.mp4
+[![KUKA Dual Arm Demo](https://img.youtube.com/vi/3t4HDp8p4lI/0.jpg)](https://www.youtube.com/watch?v=3t4HDp8p4lI)
 
 ## Notes
 
