@@ -57,6 +57,10 @@ Also make sure your JSON contains:
 - arm2_box_cover_place
 - arm2_safe_wait
 
+## 🎥 Demo Video
+
+[![KUKA Dual Arm Demo](https://img.youtube.com/vi/3t4HDp8p4lI/0.jpg)](https://www.youtube.com/watch?v=3t4HDp8p4lI)
+
 ## Notes
 
 - This version auto-plays the timeline if it is not already running.
