@@ -27,7 +27,7 @@ isaacsim_5_1_dual_arm_extension/
 1. Copy this folder to a location on your PC.
 2. Open **Window > Extensions** in Isaac Sim.
 3. Open the Extensions settings panel and add the **parent folder** of this extension to the search path.
-4. Search for **Dual Arm Task** or **user.dual_arm.task** and enable it.
+4. Search for **Dual Arm Task** enable it.
 5. A window named **Dual Arm Task** should appear.
 
 ## Before pressing Start Task
