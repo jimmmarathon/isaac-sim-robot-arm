@@ -1,4 +1,4 @@
-# Dual Arm Task Extension for Isaac Sim
+# Dual Arm Task Extension for Isaac Sim 5.1
 
 This extension adds a simple UI window with:
 - Start Task button
