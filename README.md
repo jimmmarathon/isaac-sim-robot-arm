@@ -1,4 +1,4 @@
-# Dual Arm Task Extension for Isaac Sim 5.1
+# Dual Arm Task Extension for Isaac Sim
 
 This extension adds a simple UI window with:
 - Start Task button
@@ -22,7 +22,7 @@ isaacsim_5_1_dual_arm_extension/
          └─ task_runner.py
 ```
 
-## How to install in Isaac Sim 5.1
+## How to install in Isaac Sim
 
 1. Copy this folder to a location on your PC.
 2. Open **Window > Extensions** in Isaac Sim.
@@ -59,7 +59,7 @@ Also make sure your JSON contains:
 
 ## 🎥 Demo Video
 
-[![KUKA Dual Arm Demo](https://img.youtube.com/vi/3t4HDp8p4lI/0.jpg)](https://www.youtube.com/watch?v=3t4HDp8p4lI)
+<video src="demo.mp4" controls width="600"></video>
 
 ## Notes
 
