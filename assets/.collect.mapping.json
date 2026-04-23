@@ -1,0 +1,245 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/home/liteon/Downloads/download.png",
+            "source_hash": "4106507833f4f6d73c077a5aed4013cd087f5269",
+            "target_url": "./home/liteon/Downloads/download.png",
+            "target_hash": "4106507833f4f6d73c077a5aed4013cd087f5269"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Smooth.mdl",
+            "source_hash": "a80fa0bd3c115d5bb00c3cd54a8ec19a1f4cd36c",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Smooth.mdl",
+            "target_hash": "db533ad5a2af0865cf2c3382cf3b5867ce701991"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Metals/Cast_Metal_Silver_Vein.mdl",
+            "source_hash": "89423242018ab638da192721b977327bc8ffc776",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Metals/Cast_Metal_Silver_Vein.mdl",
+            "target_hash": "b1280015b184bd8acdb72b5640c71721629a6d91"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Stone/Granite_Light.mdl",
+            "source_hash": "b0b38180be9eb20d5775b046e76a0dd5b29eb122",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Stone/Granite_Light.mdl",
+            "target_hash": "64392b97f4fdb0719a5886ffd25e2af3729efcca"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black.mdl",
+            "source_hash": "f9996e40cad546fe5f8bf1b449e4a567724ad6c9",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black.mdl",
+            "target_hash": "efc486342aef1b3a7f378bdea398af952fd8cd18"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Leather/ABS_Soft_Leather.mdl",
+            "source_hash": "c381c6f3e12c6e28f9c62fa50cd29bf5d25cc6b0",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Leather/ABS_Soft_Leather.mdl",
+            "target_hash": "3d11e2ec0b7d5c2df0358c46d257e34054fe9d82"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Plastic/Polypropylene_Opaque.mdl",
+            "source_hash": "0238b14499d23fe2b7e2cef72e0bc07d402c629d",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Plastic/Polypropylene_Opaque.mdl",
+            "target_hash": "c763c70ad60ab8cddfd78fcbb356f8cc0f938ab8"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Leather/ABS_Woven_Leather.mdl",
+            "source_hash": "fc19407dcfde32d3c193e59b736cc8ba027b01a0",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Leather/ABS_Woven_Leather.mdl",
+            "target_hash": "19904f99a8989c9bf6f8af259fe8efbe2e47be51"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/Aging_Copper.mdl",
+            "source_hash": "37779dd8b0a00e5572d8dc1ca39001f119ccd100",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/Aging_Copper.mdl",
+            "target_hash": "6cab36ec8cb1457460024adcdbe535da336ae5e7"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/Aluminum_Brushed.mdl",
+            "source_hash": "d6741c464937f45bfca0b900b97603fcbb0de272",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/Aluminum_Brushed.mdl",
+            "target_hash": "8157eb3dae770cfbac84e54ba0cbf5fbbccbb330"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plastic/Polycarbonate_Opaque.mdl",
+            "source_hash": "bb46f35a5d67ce2134db5b45a32eec0feb44e240",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plastic/Polycarbonate_Opaque.mdl",
+            "target_hash": "a4e7de0ca02c4bb3500501cbe7896e55f6393096"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Tables/Textures/OakTable_N.png",
+            "source_hash": "9d95eac3691a05e8f4f772661ea3e711ad7ac126",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Tables/Textures/OakTable_N.png",
+            "target_hash": "3e80a8182fbf68291f9c388b74679051181f2208"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Tables/Textures/OakTable_R.png",
+            "source_hash": "61b96bb84383c63a836d59b9f3f743e609bfdf6d",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Tables/Textures/OakTable_R.png",
+            "target_hash": "6243d677568090a48959d57e951006c9a72e6329"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Smooth/Concrete_Smooth_BaseColor.png",
+            "source_hash": "08f0bbe8df55ab250dda4cc8617236748b100646",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Smooth/Concrete_Smooth_BaseColor.png",
+            "target_hash": "08f0bbe8df55ab250dda4cc8617236748b100646"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black/Cloth_Black_BaseColor.png",
+            "source_hash": "8c99839ee4538e1577e19ab9602bb84323fa9f25",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black/Cloth_Black_BaseColor.png",
+            "target_hash": "8c99839ee4538e1577e19ab9602bb84323fa9f25"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Metals/Cast_Metal_Silver_Vein/Cast_Metal_Silver_Vein_BaseColor.png",
+            "source_hash": "3663f141f2b99c8bbefa9b620c5be2852b56dace",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Metals/Cast_Metal_Silver_Vein/Cast_Metal_Silver_Vein_BaseColor.png",
+            "target_hash": "3663f141f2b99c8bbefa9b620c5be2852b56dace"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Stone/Granite_Light/Granite_Light_BaseColor.png",
+            "source_hash": "d8890a92adc132bc335dab12ff111064b32f65ea",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Stone/Granite_Light/Granite_Light_BaseColor.png",
+            "target_hash": "d8890a92adc132bc335dab12ff111064b32f65ea"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Smooth/Concrete_Smooth_ORM.png",
+            "source_hash": "1469a9ba01d60d331003dab0e5af330e2ad503d4",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Smooth/Concrete_Smooth_ORM.png",
+            "target_hash": "1469a9ba01d60d331003dab0e5af330e2ad503d4"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black/Cloth_Black_ORM.png",
+            "source_hash": "7a351fde6578246791d7ec24f53b233a99d7def7",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black/Cloth_Black_ORM.png",
+            "target_hash": "7a351fde6578246791d7ec24f53b233a99d7def7"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Metals/Cast_Metal_Silver_Vein/Cast_Metal_Silver_Vein_ORM.png",
+            "source_hash": "a86f1fec53036ec5a8dcbb132ae9432ba13bc555",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Metals/Cast_Metal_Silver_Vein/Cast_Metal_Silver_Vein_ORM.png",
+            "target_hash": "a86f1fec53036ec5a8dcbb132ae9432ba13bc555"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Stone/Granite_Light/Granite_Light_ORM.png",
+            "source_hash": "9a07824cc0a7c8be78266ea8e0d79d6fdaf5676b",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Stone/Granite_Light/Granite_Light_ORM.png",
+            "target_hash": "9a07824cc0a7c8be78266ea8e0d79d6fdaf5676b"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Smooth/Concrete_Smooth_Normal.png",
+            "source_hash": "d0301e943894a02a517ec4e73ab982c91b5c84f7",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Smooth/Concrete_Smooth_Normal.png",
+            "target_hash": "d0301e943894a02a517ec4e73ab982c91b5c84f7"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black/Cloth_Black_N.png",
+            "source_hash": "9c9ba2353cd3d1fac8200be2ef38cbe9fabbd668",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black/Cloth_Black_N.png",
+            "target_hash": "9c9ba2353cd3d1fac8200be2ef38cbe9fabbd668"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Metals/Cast_Metal_Silver_Vein/Cast_Metal_Silver_Vein_N.png",
+            "source_hash": "7bc1e758c100e9f2552afeef06f30523eed64ea5",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Metals/Cast_Metal_Silver_Vein/Cast_Metal_Silver_Vein_N.png",
+            "target_hash": "7bc1e758c100e9f2552afeef06f30523eed64ea5"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Stone/Granite_Light/Granite_Light_N.png",
+            "source_hash": "2bef611ac209216f073e1e640d80e93e372cb56b",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Stone/Granite_Light/Granite_Light_N.png",
+            "target_hash": "2bef611ac209216f073e1e640d80e93e372cb56b"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black/Cloth_Black_DN.png",
+            "source_hash": "a225efab8fb1196162f0e58d9d617141d8bc6574",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/Base/Textiles/Cloth_Black/Cloth_Black_DN.png",
+            "target_hash": "a225efab8fb1196162f0e58d9d617141d8bc6574"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Plastic/textures/plastic_smudges.jpg",
+            "source_hash": "c0ed33229c692319028ac5d8a9ac5541f86b6f10",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Plastic/textures/plastic_smudges.jpg",
+            "target_hash": "c0ed33229c692319028ac5d8a9ac5541f86b6f10"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Leather/textures/abs_soft_leather_multi_R_rough_G_height_B_ao.jpg",
+            "source_hash": "8bcd4004ae69b0490ca350df0867b587b4d38df5",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Leather/textures/abs_soft_leather_multi_R_rough_G_height_B_ao.jpg",
+            "target_hash": "8bcd4004ae69b0490ca350df0867b587b4d38df5"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Leather/textures/abs_soft_leather_norm.jpg",
+            "source_hash": "fc7813e9872712e509722901f407ccda7db89bcc",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Leather/textures/abs_soft_leather_norm.jpg",
+            "target_hash": "fc7813e9872712e509722901f407ccda7db89bcc"
+        },
+        {
+            "source_url": "D:/Share/Jimmy/KUKA_Demo_0422/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Leather/textures/leather_punch_atlas_01.png",
+            "source_hash": "6ea6d061d031fe3b75ab88aea03ca2b2a2fca9a6",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/vMaterials_2/Leather/textures/leather_punch_atlas_01.png",
+            "target_hash": "6ea6d061d031fe3b75ab88aea03ca2b2a2fca9a6"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/brushed_metal_linear_R_rough_G_scratchvar_B_impurities.jpg",
+            "source_hash": "4d22b7bcd32daffe9d28c45dee8366acf97311d4",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/brushed_metal_linear_R_rough_G_scratchvar_B_impurities.jpg",
+            "target_hash": "8e20c3894a6b0cd9c4e5d426f62cd7b1d94fbc13"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/brushed_metal_linear_norm.jpg",
+            "source_hash": "85bf914ba9572d89b4d18b9f6a042057d4cb487c",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/brushed_metal_linear_norm.jpg",
+            "target_hash": "bd5405a6d032d9591610dd6bc2da052dc3a67162"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plastic/textures/plastic_smudges.jpg",
+            "source_hash": "991ffc2547a55d19582f6479dcf3de3e7e103fb4",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plastic/textures/plastic_smudges.jpg",
+            "target_hash": "4f0b9b3565a659ddc2bd8ab3fdeb8b53a72269d3"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Leather/textures/abs_woven_leather_multi_R_rough_G_grunge_B_ao.jpg",
+            "source_hash": "c3861d9a4cd5ee2fb8ae41efee9f90ab389a0226",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Leather/textures/abs_woven_leather_multi_R_rough_G_grunge_B_ao.jpg",
+            "target_hash": "a5be388da1e26169817fdbebbd477270ffafea3b"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Leather/textures/abs_woven_leather_norm.jpg",
+            "source_hash": "9acf5259aa3f61d54eb4aa71aa39a085f4926366",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Leather/textures/abs_woven_leather_norm.jpg",
+            "target_hash": "41220e11685313bc2bafb492ffc0c981cfe9c196"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_multi_R_drops_G_flowstains_B_spotsdirt.jpg",
+            "source_hash": "94091f251d5a757185c2e9d40566a9febd1ed119",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_multi_R_drops_G_flowstains_B_spotsdirt.jpg",
+            "target_hash": "de6de0db42339a055bb8021ad68bdd2eac1b9b4d"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_multi_R_base_G_scratches_B_castmetal.jpg",
+            "source_hash": "c3d28e45c7bc85fa50eed4a7a6b729f4d4c08dcc",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_multi_R_base_G_scratches_B_castmetal.jpg",
+            "target_hash": "74d93c98a278b2c60bf693468af46829e2dc19dc"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_haze_weight.png",
+            "source_hash": "9454989b786182042d3abee9a0d00514c89592d5",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_haze_weight.png",
+            "target_hash": "fb14fd9d872ca3852f6dc5e7a14b91bb184f4d73"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_gradient.png",
+            "source_hash": "d6c1ba9678186dede4e72f6eedbba706542dda7e",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_gradient.png",
+            "target_hash": "f5f9de86d63e23d972f55b2ffc060790c6aca069"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_norm.jpg",
+            "source_hash": "f718deb628fa51e1f7bf8b4d017d4c45afa21713",
+            "target_url": "./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Metal/textures/aging_copper_norm.jpg",
+            "target_hash": "8fe193af09bfa92d630a34591597a4aa51f10c2b"
+        }
+    ]
+}

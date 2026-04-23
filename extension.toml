@@ -1,0 +1,29 @@
+[core]
+reloadable = true
+order = 0
+
+[package]
+version = "1.0.0"
+category = "User"
+title = "Dual Arm Task"
+description = "Dual-arm KUKA task UI for Isaac Sim 5.1"
+authors = ["OpenAI"]
+keywords = ["Isaac Sim", "Robot", "UI", "Dual Arm"]
+
+[dependencies]
+"omni.kit.uiapp" = {}
+"omni.usd" = {}
+"omni.timeline" = {}
+"isaacsim.core.prims" = {}
+
+[[python.module]]
+name = "user.dual_arm.task"
+
+[settings]
+exts."user.dual_arm.task".json_path = "config/taught_points.json"
+exts."user.dual_arm.task".arm1_prim_path = "/World/robot/kr6r900_2"
+exts."user.dual_arm.task".arm1_ee_path = "/World/robot/kr6r900_2/link_6/grasp_center"
+exts."user.dual_arm.task".arm2_prim_path = "/World/robot_01/kr6r900_2"
+exts."user.dual_arm.task".arm2_ee_path = "/World/robot_01/kr6r900_2/link_6/grasp_center"
+exts."user.dual_arm.task".goods_path = "/World/Goods"
+exts."user.dual_arm.task".lid_path = "/World/Lid"
